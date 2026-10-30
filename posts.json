@@ -1,0 +1,88 @@
+[
+  {
+    "slug": "understanding-peptide-research-evidence",
+    "title": "How to Read Peptide Research Evidence",
+    "category": "Evidence Literacy",
+    "date": "2026-10-30",
+    "summary": "A straightforward guide to study types, limitations and claims that go beyond the available data.",
+    "sections": [
+      {
+        "heading": "Ask what was actually studied",
+        "paragraphs": [
+          "A study may report a change in a laboratory marker without showing a meaningful benefit in people. Start by identifying the model, the measured endpoint and the comparison group.",
+          "The strongest interpretation is usually the narrowest one supported by the methods."
+        ]
+      },
+      {
+        "heading": "Recognize the study setting",
+        "paragraphs": [
+          "Results from cell cultures and animal models can support further investigation. They do not establish safety or effectiveness for human use.",
+          "Human studies also vary in quality. Their design, size, duration and outcomes determine what conclusions can reasonably be drawn."
+        ]
+      },
+      {
+        "heading": "Look for details that change the meaning",
+        "paragraphs": [
+          "Check the sample size, controls, measurement methods and whether other researchers have repeated the findings. A headline or abstract alone may omit important limitations.",
+          "An accurate summary should make uncertainty visible rather than remove it."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "peptide-research-categories-explained",
+    "title": "What Peptide Research Categories Really Mean",
+    "category": "Research Topics",
+    "date": "2026-10-30",
+    "summary": "Why scientific categories help organize information without proving clinical effects.",
+    "sections": [
+      {
+        "heading": "Categories describe research interests",
+        "paragraphs": [
+          "Research directories often group topics by the biological pathway or experimental question being studied. Examples include metabolic signaling, nervous-system pathways and extracellular matrix research.",
+          "These groupings are useful starting points, but they are not medical indications."
+        ]
+      },
+      {
+        "heading": "One compound may appear in several topics",
+        "paragraphs": [
+          "Biological signaling systems overlap. A molecule investigated in one pathway may also be discussed in a different field. Context, experimental conditions and study design matter more than the category label alone."
+        ]
+      },
+      {
+        "heading": "Use categories as a reading map",
+        "paragraphs": [
+          "Choose a broad topic, read an accessible overview, then examine individual studies. Separate hypotheses from demonstrated outcomes as you compare sources."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "analytical-terms-purity-identity-stability",
+    "title": "Purity, Identity and Stability: Three Different Research Terms",
+    "category": "Analytical Basics",
+    "date": "2026-10-30",
+    "summary": "An introduction to common analytical terms and why they should not be treated as interchangeable.",
+    "sections": [
+      {
+        "heading": "Identity: what is the material?",
+        "paragraphs": [
+          "Identity testing aims to support the determination of which chemical substance is present. The specific method and its limits matter."
+        ]
+      },
+      {
+        "heading": "Purity: what else is present?",
+        "paragraphs": [
+          "A purity value describes a measurement under stated testing conditions. It does not, by itself, confirm sterility, authenticity or suitability for a particular use."
+        ]
+      },
+      {
+        "heading": "Stability: what changes over time?",
+        "paragraphs": [
+          "Stability refers to how measured characteristics may change under defined conditions. Statements about shelf life depend on the formulation, packaging, storage conditions and supporting test data.",
+          "Whenever possible, review the methods and scope of a reported specification rather than relying on one headline number."
+        ]
+      }
+    ]
+  }
+]
