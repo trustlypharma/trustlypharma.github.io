@@ -23,3 +23,10 @@
 - For stronger individual article search indexing and per-post social previews, static HTML article files or a build system would be an upgrade.
 - The three starting posts are editorial examples; check scientific sourcing before representing them as authoritative research.
 - This ZIP is prepared for publication, not proof of live deployment or indexing.
+
+
+## WordPress.com companion journal
+The website navigation, footer and homepage include a link to https://trustlypharma.wordpress.com/. This is an external site; editing the GitHub Pages files does not change its content or theme.
+
+## Repository naming
+For a root user site hosted at https://trustlypharma.github.io/, the GitHub repository should be named exactly `trustlypharma.github.io` under the `trustlypharma` account, with deployment from the `main` branch and `/ (root)`.
